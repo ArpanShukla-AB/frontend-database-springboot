@@ -1,28 +1,8 @@
-.brt{
-    text-align: center;
-    font-family: "Happy Monkey", system-ui;
-    font-weight: 400;
-    font-style: normal;
-    text-shadow: 0px 0px 1px black;
-   
-    
-}
-
-.brt-img{
-    border-radius: 200px;
-    width: 200px;
-    height: 200px;
-    border: 6px solid #efb8c9;
-}
-
-/* .happy-monkey-regular {
-  font-family: "Happy Monkey", system-ui;
-  font-weight: 400;
-  font-style: normal;
-} */
-
-
-.body-bg{
-    background: #a2d2ff;
-    color: #ffffff;
-}
+.red-circle{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    background: #BC002D;
+    margin: 200px auto;
+    /* margin:100px 0px 0px 10px*/
+} 
