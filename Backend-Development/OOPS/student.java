@@ -8,7 +8,7 @@ class student{
     //Behaviour:member methods : methods: functions
 
     public void study(){
-        System.out.println(studentName + "is Studying");
+        System.out.println(studentName + " is Studying");
     }
 
     public void showFullDetails(){

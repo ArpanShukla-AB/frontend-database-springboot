@@ -8,5 +8,16 @@ public class demo{
         st1.studentCity = "Delhi";
 
     st1.study();
+    st1.showFullDetails();
+
+
+    student st2 = new student();
+    st2.studentName = "Shyam";
+    st2.studentId = 102;
+    st2.studentCity = "Mumbai";
+
+    st2.study();
+    st2.showFullDetails();
+
     }
 }
