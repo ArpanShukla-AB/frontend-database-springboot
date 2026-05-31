@@ -5,6 +5,14 @@ class student{
     String studentName;
     String studentCity;
 
+    public student(){
+        System.out.println("creating objects");
+    }
+
+    public student(int st){
+
+    }
+
     //Behaviour:member methods : methods: functions
 
     public void study(){
