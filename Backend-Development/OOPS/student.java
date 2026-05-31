@@ -10,7 +10,7 @@ class student{
     }
 
     public student(int st){
-
+        System.out.println("parametrized constructor");
     }
 
     //Behaviour:member methods : methods: functions
