@@ -19,5 +19,9 @@ public class demo{
     st2.study();
     st2.showFullDetails();
 
+    dog d1 = new dog();
+
+    d1.eating();
+
     }
 }
