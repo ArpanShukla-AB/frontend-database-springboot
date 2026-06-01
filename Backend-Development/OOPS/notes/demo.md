@@ -1,0 +1,1 @@
+inheritance------ > it is a mechanishm in java by which one class is allowed to inherit the features of another class
