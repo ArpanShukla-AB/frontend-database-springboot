@@ -40,5 +40,23 @@ public void class(); =>This method has no body so it will be abstract method
 use abstract keyword
 abstract public void call();
 
+--abstarct class can not be instantined object can not be created
+ --abstarct-- public class MyClass{
+    public void cal()
+    {
+        System.out.println("calacalating method");
+    }
+
+    abstract public void launchRocket();
+}
+
+//abstract class ka object nahi baba shakte
+class start{
+public static void main(String[] args){
+     My class myClass = new MyClass() => this is not possible in this
+}
+}
+
+
 
 
