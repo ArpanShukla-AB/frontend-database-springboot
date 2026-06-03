@@ -19,3 +19,11 @@ super() used to call parent class constructor from inside child class constructo
 
 
 --Method overriding--
+
+--Encapulasation--
+Wrapping of data memebers(variables) and member (methods) in a single unit
+
+
+private vaiable cannot modiied after the scope in any scope local and global scope it cannot be accessed it can be accessses through getter or setter
+
+
