@@ -16,3 +16,6 @@ Types of inheritance ---
 
 SuperKeyword -- super keyword is used to refer immediate parent keyword
 super() used to call parent class constructor from inside child class constructor
+
+
+--Method overriding--
