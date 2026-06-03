@@ -27,3 +27,11 @@ Wrapping of data memebers(variables) and member (methods) in a single unit
 private vaiable cannot modiied after the scope in any scope local and global scope it cannot be accessed it can be accessses through getter or setter
 
 
+
+--Abstarction--
+Showing feature and hiding internal deatils(implementation)
+100% abstarction go for =>Interfaces abstarcation
+abstract classes 0% to 100 % =>Abstract classes
+
+
+
