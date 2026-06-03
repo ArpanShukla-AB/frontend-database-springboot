@@ -34,4 +34,11 @@ Showing feature and hiding internal deatils(implementation)
 abstract classes 0% to 100 % =>Abstract classes
 
 
+--abstract method--
+function has name 
+public void class(); =>This method has no body so it will be abstract method 
+use abstract keyword
+abstract public void call();
+
+
 
