@@ -37,4 +37,23 @@ notepad , notepad++ , sublime
 -------------
 how to set jar file in your class path
 
+---------------=============---------------------========------=====-------==================-----
+Swing , web app , mobile goes to jdbc api driver manager
+you need a driver manager
+jdbc driver ==> MySql => platform independent
+native driver
+thin driver
+network prorocol driver
+
+
+5 stepts to connect to jdbc 
+step 1 : load the driver
+2.Connection
+3.Statement => interface 
+4.Query execute 
+5.close the connection at end 
+
+
+
+
 
