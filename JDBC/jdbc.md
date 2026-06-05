@@ -2,6 +2,8 @@ jdbc - java database connectivity
 JDbc stands for java database connectivity . It is a standard API provided by Oracle for java applications to interact with different set of databases.
 api -- predefined classes 
 
+jdbc connects jdbc to databases
+
 --why jdbc --
 to store the data for all future and fetch 
 
@@ -27,4 +29,12 @@ check java -version
 
 database : Oracle , My Sql Db , 
 My Sql 
+
+JDBC Driver : My sql - connector: 5.1 , 8.0
+
+notepad , notepad++ , sublime
+
+-------------
+how to set jar file in your class path
+
 
