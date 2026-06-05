@@ -67,5 +67,6 @@ public interface Shape{
      int i = 34; // will by default public static final
 
      void calaculateArea(); will by default public abstarct
-     
+
 }
+

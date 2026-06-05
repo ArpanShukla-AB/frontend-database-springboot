@@ -20,3 +20,11 @@ java.sql.ResultSet
 java.sql.ResultSetMetaData
 java.sql.DatabaseMetada
 -java.sql.SQLException
+
+setup--
+install java 
+check java -version
+
+database : Oracle , My Sql Db , 
+My Sql 
+
