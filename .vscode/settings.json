@@ -1,3 +1,27 @@
 {
-    "notes.notesLocation": ""
+    "notes.notesLocation": "",
+    "java.project.sourcePaths": [
+        "JDBC/src",
+        "JDBC",
+        "Backend-Development/OOPS/oopsCode",
+        "Hotel-Reservation-System/Hotel Reservation System"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "MyQL Local",
+            "database": "hotel_db",
+            "username": "root",
+            "password": "Bholenath09@",
+            "connectionTimeout": 30
+        }
+    ]
 }
