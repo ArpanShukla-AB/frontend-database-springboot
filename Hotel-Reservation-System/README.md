@@ -52,3 +52,11 @@ SELECT * FROM reservations;
 
 
 DESCRIBE reservations;
+
+
+
+cd "/Users/arpanshukla/Desktop/OS/scrimba_web/Hotel-Reservation-System/Hotel Reservation System"
+javac -cp "lib/libraries/*" HotelReservationSystem.java
+java -cp ".:lib/libraries/*" HotelReservationSystem
+
+
